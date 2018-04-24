@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1524568483075.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4225961556",
+    "id" : "28D245A9",
+    "lastKnownWriteTime" : 1524568674,
+    "last_content_update" : -2147483648,
+    "path" : "~/RStudio/Lab5/Lab5Script.R",
+    "project_path" : "Lab5Script.R",
+    "properties" : {
+        "cursorPosition" : "28,4",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
